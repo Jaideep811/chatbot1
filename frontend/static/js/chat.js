@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
         window.location.hostname === "127.0.0.1" ||
             window.location.hostname === "localhost"
             ? "http://127.0.0.1:5000"
-            : "https://ultrachat-rndp.onrender.com";
+            : "https://chatbot1-xzuk.onrender.com";
 
 
     const history = [];
